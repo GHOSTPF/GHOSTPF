@@ -58,14 +58,18 @@ Minha primeira vez codando eu tinha meus 12 anos quando descobri que era possív
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/edavis10/redmine_logo/master/images/redmine_logo.svg" alt="Redmine"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-Redmine-B32024?style=flat&logo=redmine&logoColor=white" alt="Redmine"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello"/></code>
 
 <br/>
 
 <a href="https://github.com/ghostpf" title="Perfil do Pablo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghostpf&theme=dracula&show_icons=true" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=ghostpf&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
 </a>
 
 
