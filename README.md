@@ -1,4 +1,4 @@
-# Pablo Tavares - #OpenToWork
+# Pablo Tavares
 
 ### Desenvolvedor Full Stack & UI/UX Designer
 
