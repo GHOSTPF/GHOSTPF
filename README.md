@@ -65,4 +65,13 @@ Minha primeira vez codando eu tinha meus 12 anos quando descobri que era possív
 
 <a href="https://github.com/ghostpf" title="Perfil do Pablo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghostpf&theme=dracula&show_icons=true" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </a>
+
+
+<code><img height="32" src="https://raw.githubusercontent.com/edavis10/redmine_logo/master/images/redmine_logo.svg" alt="Redmine"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Redmine-logo.png/600px-Redmine-logo.png" alt="Redmine"/></code>
+<code><img height="32" src="https://avatars.githubusercontent.com/u/338145?s=200&v=4" alt="Redmine"/></code>
+![Redmine](https://img.shields.io/badge/-Redmine-B32024?style=flat&logo=redmine&logoColor=white)
+<code><img height="32" src="https://iconape.com/wp-content/png_logo_vector/redmine.png" alt="Redmine"/></code>
+
