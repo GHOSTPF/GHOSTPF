@@ -64,15 +64,10 @@ Minha primeira vez codando eu tinha meus 12 anos quando descobri que era possív
 <br/>
 
 <a href="https://github.com/ghostpf" title="Perfil do Pablo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghostpf&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghostpf&theme=dark&show_icons=true" />
   <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=ghostpf&theme=dark&hide_border=false"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostpf&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
 </a>
-
-
-<code><img height="32" src="https://img.shields.io/badge/-Redmine-B32024?style=flat&logo=redmine&logoColor=white" alt="Redmine"/></code>
-
-
