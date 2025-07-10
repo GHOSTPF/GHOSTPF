@@ -17,7 +17,6 @@ Minha primeira vez codando eu tinha meus 12 anos quando descobri que era possive
 
 ### **Aplicações e Dados**
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"/></code>
@@ -57,7 +56,7 @@ Minha primeira vez codando eu tinha meus 12 anos quando descobri que era possive
 
 ### **Ferramentas de Desenvolvimento**
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/805d1624d7c956c74f128cfb0a7745cfc7f08f3e/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/805d1624d7c956c74f128cfb0a7745cfc7f08f3e/topics/visual-studio-code/visual-studio-code-original.svg" alt="VS Code"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Redmine-logo.png" alt="Redmine"/></code>
@@ -69,8 +68,3 @@ Minha primeira vez codando eu tinha meus 12 anos quando descobri que era possive
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghostpf&theme=dracula&show_icons=true" />
 </a>
 
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/pablo-francisco-b74179247/))]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/pablo-francisco-b74179247/))
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pabloftavares460@gmail.com)](mailto:pabloftavares460@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/GHOSTPF)
