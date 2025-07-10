@@ -1,3 +1,17 @@
+# Pablo Tavares - #OpenToWork
+
+### Desenvolvedor Full Stack & UI/UX Designer
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-francisco-b74179247)
+[![Email](https://img.shields.io/badge/-iuricold99@gmail.com-333333?style=flat&logo=gmail&logoColor=white)](mailto:pabloftavares460@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-333333?style=flat&logo=whatsapp&logoColor=25D366)](https://wa.me/5583986669294)
+
+Meu nome é Pablo Tavares, ou “Dev Tavares”.Sou freelancer como Desenvolvedor Full Stack & UI/UX Designer desde 2020. Sou extremamente apaixonado por café e academia.
+
+Minha primeira vez codando eu tinha meus 12 anos quando descobri que era possivel estilizar paginas web, depois disso comecei a me aprofundar nesses mares da programação e consegui o que realmente iria fazer pra vida. Hoje trabalho com o que amo e faço o que gosto nos momentos livres.
+
+**Precisando de projeto novo para sua empresa? Entre em contato e vamos criar algo incrível juntos.**
+
 ## Minhas Skills
 
 **Aplicações e dados**
