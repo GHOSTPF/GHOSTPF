@@ -58,7 +58,7 @@ Minha primeira vez codando eu tinha meus 12 anos quando descobri que era possív
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/edavis10/redmine_logo/master/images/redmine_logo.svg" alt="Redmine"/></code>
+![Redmine](https://img.shields.io/badge/-Redmine-B32024?style=flat&logo=redmine&logoColor=white)
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello"/></code>
 
 <br/>
